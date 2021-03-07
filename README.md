@@ -6,10 +6,10 @@ The purpose of this assignment was to add polish to the web app that was created
 
 ### Deliverables:
 
-**Deliverable 1:**: 
+**Deliverable 1:**
 - <a href="https://github.com/hollyouellette/Mission-to-Mars/blob/main/Mission_to_Mars_Challenge.ipynb">Mission_to_Mars_Challenge.ipynb</a>
 
-**Deliverable 2:**: 
+**Deliverable 2:**
 - <a href="https://github.com/hollyouellette/Mission-to-Mars/blob/main/scraping.py">scraping.py</a>
 - <a href="https://github.com/hollyouellette/Mission-to-Mars/blob/main/templates/index.html">index.html</a>
 
