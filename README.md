@@ -15,6 +15,6 @@ The purpose of this assignment was to add polish to the web app that was created
 
 **Deliverable 3:**
 - Webpage is mobile-responsive
-- Two additional Bootstrap 2 components are used to style the webpage:
-    - The "Scrape New Data" button is styled.
+- Two additional Bootstrap 3 components are used to style the webpage:
+    - The "Scrape New Data" button was styled.
     - Hemisphere images were added as thumbnails. 
